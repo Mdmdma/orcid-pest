@@ -1,0 +1,22 @@
+---
+title: "Pest Risk and Proximity to Urban Areas and Import Centers"
+author: "Mathis Erler"
+date: today
+---
+
+## About this project
+
+This analysis investigates how proximity to urban areas and plant import
+centers affects the risk of growers encountering an invasive insect pest
+that affects multiple cultivated crops, including orchids.
+
+*Full analysis coming soon.*
+
+## R session info
+
+```{r}
+#| label: session-info
+#| echo: false
+
+sessionInfo()
+```

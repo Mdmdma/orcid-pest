@@ -1,0 +1,28 @@
+---
+title: "Spatial Risk Analysis"
+---
+
+## Setup
+
+```{r}
+#| label: load-packages
+
+# Packages will be loaded here once installed.
+# library(tidyverse)
+# library(sf)
+```
+
+## Load data
+
+```{r}
+#| label: load-data
+
+# Place raw data files in data/raw/ and load them here.
+# Example:
+# grower_locations <- read_csv(here::here("data", "raw", "grower_locations.csv"))
+# pest_records     <- read_csv(here::here("data", "raw", "pest_records.csv"))
+```
+
+## Analysis
+
+<!-- Add spatial analysis steps here. -->

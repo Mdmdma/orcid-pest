@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Pest Risk and Proximity to Urban Areas and Import Centers"
+  description: >
+    A spatial analysis of how proximity to urban areas and plant import centers
+    affects the risk of growers encountering an invasive crop pest.
+  navbar:
+    left:
+      - href: index.qmd
+        text: Overview
+      - href: scripts/analysis.qmd
+        text: Analysis
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-fold: true
+    code-tools: true
+    self-contained: false
+
+execute:
+  echo: true
+  warning: false
+  message: false

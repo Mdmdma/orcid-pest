@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "scripts/analysis.html",
+    "href": "scripts/analysis.html",
+    "title": "Spatial Risk Analysis",
+    "section": "",
+    "text": "Code\n# Packages will be loaded here once installed.\n# library(tidyverse)\n# library(sf)"
+  },
+  {
+    "objectID": "scripts/analysis.html#setup",
+    "href": "scripts/analysis.html#setup",
+    "title": "Spatial Risk Analysis",
+    "section": "",
+    "text": "Code\n# Packages will be loaded here once installed.\n# library(tidyverse)\n# library(sf)"
+  },
+  {
+    "objectID": "scripts/analysis.html#load-data",
+    "href": "scripts/analysis.html#load-data",
+    "title": "Spatial Risk Analysis",
+    "section": "2 Load data",
+    "text": "2 Load data\n\n\nCode\n# Place raw data files in data/raw/ and load them here.\n# Example:\n# grower_locations &lt;- read_csv(here::here(\"data\", \"raw\", \"grower_locations.csv\"))\n# pest_records     &lt;- read_csv(here::here(\"data\", \"raw\", \"pest_records.csv\"))"
+  },
+  {
+    "objectID": "scripts/analysis.html#analysis",
+    "href": "scripts/analysis.html#analysis",
+    "title": "Spatial Risk Analysis",
+    "section": "3 Analysis",
+    "text": "3 Analysis"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pest Risk and Proximity to Urban Areas and Import Centers",
+    "section": "",
+    "text": "This analysis investigates how proximity to urban areas and plant import centers affects the risk of growers encountering an invasive insect pest that affects multiple cultivated crops, including orchids.\nFull analysis coming soon."
+  },
+  {
+    "objectID": "index.html#about-this-project",
+    "href": "index.html#about-this-project",
+    "title": "Pest Risk and Proximity to Urban Areas and Import Centers",
+    "section": "",
+    "text": "This analysis investigates how proximity to urban areas and plant import centers affects the risk of growers encountering an invasive insect pest that affects multiple cultivated crops, including orchids.\nFull analysis coming soon."
+  },
+  {
+    "objectID": "index.html#r-session-info",
+    "href": "index.html#r-session-info",
+    "title": "Pest Risk and Proximity to Urban Areas and Import Centers",
+    "section": "2 R session info",
+    "text": "2 R session info\n\n\nR version 4.3.3 (2024-02-29)\nPlatform: x86_64-pc-linux-gnu (64-bit)\nRunning under: Ubuntu 24.04.4 LTS\n\nMatrix products: default\nBLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.12.0 \nLAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.12.0\n\nlocale:\n [1] LC_CTYPE=en_US.UTF-8       LC_NUMERIC=C              \n [3] LC_TIME=en_US.UTF-8        LC_COLLATE=en_US.UTF-8    \n [5] LC_MONETARY=en_US.UTF-8    LC_MESSAGES=en_US.UTF-8   \n [7] LC_PAPER=en_US.UTF-8       LC_NAME=C                 \n [9] LC_ADDRESS=C               LC_TELEPHONE=C            \n[11] LC_MEASUREMENT=en_US.UTF-8 LC_IDENTIFICATION=C       \n\ntime zone: Europe/Zurich\ntzcode source: system (glibc)\n\nattached base packages:\n[1] stats     graphics  grDevices utils     datasets  methods   base     \n\nloaded via a namespace (and not attached):\n [1] htmlwidgets_1.6.4 compiler_4.3.3    fastmap_1.2.0     cli_3.6.6        \n [5] tools_4.3.3       htmltools_0.5.8.1 yaml_2.3.10       rmarkdown_2.29   \n [9] knitr_1.50        jsonlite_2.0.0    xfun_0.52         digest_0.6.37    \n[13] rlang_1.2.0       evaluate_1.0.3"
+  }
+]
